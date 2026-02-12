@@ -8,18 +8,31 @@ Mathematics graduate with practical cybersecurity training and hands-on experien
 Core Interests
 
 Security Operations
+
 Log Analysis
+
 Vulnerability Assessment
+
 Cloud Security Fundamentals
+
 Risk & Compliance
+
 Certifications
+
 Google Cybersecurity Certificate (2024)
+
 Cybersecurity Certificate of Completion
+
 Introduction to Artificial Intelligence
+
 Generative AI Certification
+
 Currently Building
+
 Network traffic analysis labs
+
 Vulnerability scanning documentation
+
 Incident response simulations
 
 Connect With Me
