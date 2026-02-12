@@ -1,7 +1,7 @@
-# Oluwasegun Ogunseye
+# OLUWASEGUN OGUNSEYE
 Entry-Level Cybersecurity Analyst | Northern Ireland
 
-About Me
+# About Me
 
 Mathematics graduate with practical cybersecurity training and hands-on experience in network analysis, vulnerability assessment, and risk documentation. Passionate about Security Operations (SOC), threat detection, and governance, risk & compliance (GRC).
 
@@ -35,4 +35,4 @@ Vulnerability scanning documentation
 
 Incident response simulations
 
-Connect With Me
+# Connect With Me
