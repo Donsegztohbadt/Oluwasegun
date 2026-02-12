@@ -1,5 +1,5 @@
 # OLUWASEGUN OGUNSEYE
-Entry-Level Cybersecurity Analyst | Northern Ireland
+Entry-Level Cybersecurity Analyst | United Kingdom
 
 # About Me
 
