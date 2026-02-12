@@ -5,7 +5,7 @@ About Me
 
 Mathematics graduate with practical cybersecurity training and hands-on experience in network analysis, vulnerability assessment, and risk documentation. Passionate about Security Operations (SOC), threat detection, and governance, risk & compliance (GRC).
 
-#Core Interests
+# Core Interests
 
 Security Operations
 
